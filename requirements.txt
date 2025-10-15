@@ -1,3 +1,4 @@
 pandas
 spacy
+en-core-web-sm
 streamlit
