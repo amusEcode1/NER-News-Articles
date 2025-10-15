@@ -1,8 +1,3 @@
-!pip install streamlit spacy -q
-
-from google.colab import drive
-drive.mount('/content/drive')
-
 import streamlit as st
 import spacy
 from spacy.matcher import Matcher
@@ -119,7 +114,3 @@ if st.button("Analyze"):
             st.table(entities)
         else:
             st.info("No entities found.")
-
-!jupyter nbconvert --to script "/content/drive/MyDrive/Colab Notebooks/NER_News_Articles_app/app.ipynb"
-
-!mv "/content/drive/MyDrive/Colab Notebooks/NER_News_Articles_app/app.txt" "/content/drive/MyDrive/Colab Notebooks/NER_News_Articles_app/app.py"
