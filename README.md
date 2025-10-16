@@ -21,7 +21,7 @@ Used the  CoNLL003 dataset (20,000+ samples) for Named Entity Recognition tasks.
 
 ## 📊 Entity Visualization
 ### Displacy
-![Model Comparison (SM vs MD vs Custom)](image/ner_model_comparison.png)
+![Model Comparison (SM vs MD vs Custom)](image/ner_model_comparison.PNG)
 
 ## 📊 Model Performance Comparison  
 | Model | Validation Accuracy | Test Accuracy | Remarks |
