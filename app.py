@@ -80,13 +80,13 @@ def rule_based_ner(doc):
 def load_model(choice):
     if choice == "Small Model (with Rules)":
         # Load your saved rule-based model
-        nlp = spacy.load("rule_based_ner_sm")
+        nlp = spacy.load("rule_based_ner_sm/rule_based_ner_sm/meta.json")
         return nlp
     elif choice == "Medium Model (from SpaCy)":
         return spacy.load("en_core_web_md")
     else:
         # Load custom trained model
-        return spacy.load("ner_conll_model")
+        return spacy.load("ner_conll_model/ner_conll_model/meta.json")
 
 nlp = load_model(model_choice)
 st.success(f"✅ Loaded: {model_choice}")
