@@ -1,4 +1,4 @@
-pandas==2.2.2
-spacy==3.7.5
-streamlit==1.37.0
+pandas
+spacy
+streamlit
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
