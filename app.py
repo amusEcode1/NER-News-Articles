@@ -1,5 +1,4 @@
 import streamlit as st
-import subprocess
 import spacy
 from spacy.matcher import Matcher
 from spacy.tokens import Span
