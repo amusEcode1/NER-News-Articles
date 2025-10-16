@@ -6,13 +6,6 @@ from spacy.tokens import Span
 from spacy.language import Language
 from spacy import displacy
 
-# Auto-download model if not found
-try:
-    spacy.load("en_core_web_sm")
-except OSError:
-    with st.spinner("Downloading SpaCy model..."):
-        subprocess.run(["python", "-m", "spacy", "download", "en_core_web_sm"])
-
 # Streamlit Page Config
 st.set_page_config(page_title="NER Visualizer", page_icon="📰", layout="wide")
 st.title("📰 Named Entity Recognition (NER) from News Articles")
