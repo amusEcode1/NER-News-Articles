@@ -1,7 +1,7 @@
 pip>=25.2
 pandas
 numpy==1.26.0
-spacy==3.7.1
+spacy==3.7.5
 streamlit
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
 en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.7.1/en_core_web_md-3.7.1.tar.gz
