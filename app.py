@@ -15,7 +15,7 @@ except OSError:
 
 # Streamlit Page Config
 st.set_page_config(page_title="NER Visualizer", page_icon="🧠", layout="wide")
-st.title("🧠 Named Entity Recognition (NER) Visualizer")
+st.title("📰 Named Entity Recognition (NER) from News Articles")
 
 # Model Selection
 model_choice = st.selectbox(
