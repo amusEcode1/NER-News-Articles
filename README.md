@@ -68,7 +68,7 @@ streamlit run app.py
 Then open the local URL (usually http://localhost:8501/) in your browser.
 
 ## Try the App Online
-You can use the app directly here: [News Verifier](https://named-entity-extraction.streamlit.app/)<br>
+You can use the app directly here: [Named Entity Extraction](https://named-entity-extraction.streamlit.app/)<br>
 Simply type or paste a news article to see recognized entities highlighted in color.
 
 ## 💡 Features
