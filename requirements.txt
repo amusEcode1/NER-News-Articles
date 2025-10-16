@@ -1,3 +1,4 @@
+pip>=25.2
 pandas
-spacy==3.7.2
+spacy
 streamlit
