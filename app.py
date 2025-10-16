@@ -94,7 +94,7 @@ st.success(f"✅ Loaded: {model_choice}")
 # Text Input
 text = st.text_area(
     "Enter text for NER:",
-    "Apple plans to open a new office in Nigeria by 2026."
+    placeholder="Type or paste your text here..."
 )
 
 # Analyze Button
