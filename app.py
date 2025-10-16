@@ -14,7 +14,7 @@ except OSError:
         subprocess.run(["python", "-m", "spacy", "download", "en_core_web_sm"])
 
 # Streamlit Page Config
-st.set_page_config(page_title="NER Visualizer", page_icon="🧠", layout="wide")
+st.set_page_config(page_title="NER Visualizer", page_icon="📰", layout="wide")
 st.title("📰 Named Entity Recognition (NER) from News Articles")
 
 # Model Selection
