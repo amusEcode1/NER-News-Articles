@@ -83,8 +83,10 @@ Simply type or paste a news article to see recognized entities highlighted in co
 Product-Review-Sentiment-Analysis/
 ├── app.py               
 ├── ner_conll_model/
+|   ├──meta.json
 |   ├──...
 ├── rule_based_ner_sm/
+|   ├──meta.json
 |   ├──...            
 ├── image              
 │   ├── ner_model_comparison.PNG
