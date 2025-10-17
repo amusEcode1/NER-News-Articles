@@ -80,7 +80,7 @@ Simply type or paste a news article to see recognized entities highlighted in co
 
 ## 📂 Folder Structure
 ```
-Product-Review-Sentiment-Analysis/
+NER-News-Articles/
 ├── app.py               
 ├── ner_conll_model/
 |   ├──meta.json
