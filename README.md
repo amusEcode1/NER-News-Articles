@@ -82,10 +82,13 @@ Simply type or paste a news article to see recognized entities highlighted in co
 ```
 Product-Review-Sentiment-Analysis/
 ├── app.py               
-├── model.joblib         
-├── requirements.txt     
+├── ner_conll_model
+|   ├──
+├── rule_based_ner_sm
+|   ├──              
 ├── image/              
-│   ├── ner_model_comparison.PNG            
+│   ├── ner_model_comparison.PNG
+├── requirements.txt           
 └── README.md          
 ```
 
