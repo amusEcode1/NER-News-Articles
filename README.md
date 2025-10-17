@@ -6,7 +6,7 @@ This project is a Natural Language Processing (NLP) application designed to extr
 - Entity Extraction: Identified entities like PERSON, ORG, GPE, and LOC from article content.
 - **NER Approaches:**
   - Rule-based methods (using **spaCy’s Matcher** and **Span**)
-  - Model-based approaches using pre-trained spaCy pipelines
+  - Model-based approaches using pre-trained spaCy models
 - Visualization: Displayed recognized entities directly in text using **displaCy**.
 - Model Comparison: Compared results using two different spaCy models:
   - **en_core_web_sm** 
@@ -31,7 +31,7 @@ Used the  CoNLL003 dataset (20,000+ samples) for Named Entity Recognition tasks.
 | en_core_web_md | — | — | Pretrained baseline for comparison |
 
 ## 🧠 Tech Stack & Tools:
-- Python (Pandas, spaCy, Random, DisplaCy)
+- Python (Pandas, spaCy, DisplaCy)
 - Streamlit — for model deployment and visualization
 - GitHub / Google Colab / Kaggle → for collaboration and experimentation
 
