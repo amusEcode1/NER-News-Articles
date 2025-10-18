@@ -104,7 +104,7 @@ If you encounter any issues:
 👤 Oluyale Ezekiel
 - 📧 Email: ezekieloluyale@gmail.com
 - LinkedIn: [Ezekiel Oluyale](https://www.linkedin.com/in/ezekiel-oluyale)
-- GitHub: [@amusEcode1](https://github.com/amusEcode1)
+- GitHub Profile: [@amusEcode1](https://github.com/amusEcode1)
 - Twitter: [@amusEcode1](https://x.com/amusEcode1?t=uHxhLzrA1TShRiSMrYZQiQ&s=09)
 
 ## 🙏 Acknowledgement
