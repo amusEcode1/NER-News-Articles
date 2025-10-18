@@ -102,9 +102,9 @@ If you encounter any issues:
 
 ## ✍️ Author
 👤 Oluyale Ezekiel
-- Email: ezekieloluyale@gmail.com
+- 📧 Email: ezekieloluyale@gmail.com
 - LinkedIn: [Ezekiel Oluyale](https://www.linkedin.com/in/ezekiel-oluyale)
-- GitHub: [Product Review Sentiment Analysis](https://github.com/amusEcode1/Product_Review_Sentiment_Analysis)
+- GitHub: [@amusEcode1](https://github.com/amusEcode1)
 - Twitter: [@amusEcode1](https://x.com/amusEcode1?t=uHxhLzrA1TShRiSMrYZQiQ&s=09)
 
 ## 🙏 Acknowledgement
